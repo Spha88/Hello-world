@@ -1,6 +1,6 @@
 # Hello world
 
-My name is Siphamandla Mehlomakulu, ypu can call me Spha my nickname
+My name is Siphamandla Mehlomakulu, you can call me Spha my nickname
 
 I joined github because I see every webdeveloper I find on the internet mentions something about this site,
 it must be special,
